@@ -11,6 +11,7 @@
 		C2A670722AABA4BD000F8201 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A670712AABA4BD000F8201 /* ContentView.swift */; };
 		C2A670742AABA4BE000F8201 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A670732AABA4BE000F8201 /* Assets.xcassets */; };
 		C2A670772AABA4BE000F8201 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A670762AABA4BE000F8201 /* Preview Assets.xcassets */; };
+		C2A6707E2AABB56E000F8201 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A6707D2AABB56E000F8201 /* GameView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C2A670712AABA4BD000F8201 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C2A670732AABA4BE000F8201 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2A670762AABA4BE000F8201 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C2A6707D2AABB56E000F8201 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C2A6706F2AABA4BD000F8201 /* PracticeMultiplicationApp.swift */,
 				C2A670712AABA4BD000F8201 /* ContentView.swift */,
+				C2A6707D2AABB56E000F8201 /* GameView.swift */,
 				C2A670732AABA4BE000F8201 /* Assets.xcassets */,
 				C2A670752AABA4BE000F8201 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C2A670722AABA4BD000F8201 /* ContentView.swift in Sources */,
+				C2A6707E2AABB56E000F8201 /* GameView.swift in Sources */,
 				C2A670702AABA4BD000F8201 /* PracticeMultiplicationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
